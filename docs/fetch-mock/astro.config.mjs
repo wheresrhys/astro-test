@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://www.wheresrhys.co.uk',
-  base: '/fetch-mock',
+  base: '/astro-test',
 	integrations: [
 		starlight({
 			title: 'fetch-mock',
